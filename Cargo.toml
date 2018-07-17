@@ -1,0 +1,8 @@
+[package]
+name = "overload-bounded-async-channel"
+version = "0.1.0"
+authors = ["Kevin Choubacha <chewbacha@gmail.com>"]
+
+[dependencies]
+tokio = "0.1.7"
+futures = "0.1.15"
